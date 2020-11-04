@@ -1,1 +1,2 @@
 # Chemical-Gas-sensor
+The chemical sensor is used sensitive to smoke and the flammable gases, such as, LPG, Alcohol, and Hydrogen. The chemical sensor has a built-in potentiometer that allows you to adjust to sensor sensitivity according to how accurate you want to detect chemicals. When the chemical sensor detects the gas, the sensor outputs a voltage that is proportional to the concentration of gas. From this exercise, use the serial monitor and led lights to see how the sensor acts in gases.
